@@ -1,2 +1,2 @@
-# SHECODESBASIC
- My first 3 weeks in SheCodes
+# SHECODESBASIC/ SHECODES+ LESSONS
+ MywheatherApp 
